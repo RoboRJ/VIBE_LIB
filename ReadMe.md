@@ -1,4 +1,3 @@
-````md
 # StudentLib PROS Robotics Library
 
 StudentLib is a student-readable C++ robotics library for PROS-based VEX-style differential/tank-drive robots.
